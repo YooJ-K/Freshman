@@ -1,6 +1,10 @@
 # Solving lavida.us
 laved.us solved in 2018, freshman.
 
+If you want to download all of your lavida.us code, please download all_of_codes_in_lavida_down.py.
+Edit variable, my_id and my_password.
+
+115 solve
 - 1000 A+B 
 - 1002 URI decoding 
 - 1005 존 류의 금고 
